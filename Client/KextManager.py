@@ -18,7 +18,6 @@ kextArray = []
 kextDirs = ['/Library/Extensions',
             '/System/Library/Extensions',
             '/EFI/CLOVER/kexts/*',
-            '/EFI/CLOVER/kexts/Other',
             '/Volumes/EFI/EFI/CLOVER/kexts/*',
             '/Volumes/EFI/EFI/CLOVER/kexts/Other',
             '/Extra/Extensions']
